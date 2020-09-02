@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q98skx3d0r8qqmg6?svg=true)](https://ci.appveyor.com/project/Milfagirl/yarn)
