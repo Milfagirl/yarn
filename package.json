@@ -29,8 +29,7 @@
     "babel": "babel src -d dist",
     "lint": "eslint .",
     "start": "webpack-dev-server --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js",
-    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
+    "build": "webpack --config webpack.prod.js"
   },
   "dependencies": {
     "css-loader": "^4.2.2",
